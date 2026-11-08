@@ -1,0 +1,2 @@
+# 个人知识
+建议目录：`inbox/`、`experience/`、`knowledge/`、`books/reading-list.csv` 与 `books/notes/<book-id>/`、`learning/`、`decisions/`、`journal/daily/` 与 `journal/reflections/`、`reviews/weekly|monthly|yearly/`、`personal-projects/`、`writing/drafts|finished/`、`sources/`、`archive/`。读书笔记以个人理解、出处和应用为主。仓库当前公开，私人日记与个人身份信息不要放这里。
