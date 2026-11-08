@@ -1,0 +1,2 @@
+# 新业务探索
+新方向先在本区研究和验证，不必立刻另建仓库。建议目录：`inbox/`、`strategy/`、`opportunities/`、`research/`、`ventures/<venture-id>/`（假设、研究、去敏访谈、实验、经济模型、原型链接、决策、复盘）、`portfolio/`、`graduation/`、`templates/`、`sources/`、`archive/`。记录客户、问题、证据、实验成本、结果、限制和下一步。
