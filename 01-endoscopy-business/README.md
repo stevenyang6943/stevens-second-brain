@@ -1,0 +1,2 @@
+# 内窥镜业务知识
+保存经筛选且适合长期检索的维修配件、OEM/ODM、质量和外贸方法。建议目录：`inbox/`、`business-overview/`、`parts/`（catalog、specifications、compatibility、identification、quality、troubleshooting）、`oem-odm/`（capabilities、requirements、feasibility、development-process、testing-acceptance、change-control、case-studies）、`quality-and-compliance/`、`trade/`、`market-research/`、`supplier-knowledge/`、`marketing/`、`projects/`、`decisions/`、`retrospectives/`、`templates/`、`sources/`、`archive/`。适配和技术结论需注明来源、日期、适用条件及核实状态。当前仓库公开，勿放客户资料、报价底价、合同或未公开设计。
