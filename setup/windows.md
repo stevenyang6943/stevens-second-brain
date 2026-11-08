@@ -1,0 +1,1 @@
+Windows/DELL：安装 GitHub Desktop，克隆仓库至统一工作目录；开始编辑前 Pull，完成后检查、Commit、Push。
