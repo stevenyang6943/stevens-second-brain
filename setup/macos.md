@@ -1,0 +1,1 @@
+macOS/Mac mini：安装 GitHub Desktop 或 Git，克隆仓库；开始编辑前同步，完成后提交并推送。
