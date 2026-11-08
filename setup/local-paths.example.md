@@ -1,0 +1,1 @@
+DELL 示例：D:/SecondBrain/stevens-second-brain；Mac 示例：~/SecondBrain/stevens-second-brain。按实际位置调整，避免在笔记中写入绝对设备路径。
